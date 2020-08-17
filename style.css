@@ -1,0 +1,39 @@
+h1{
+  font-size: 60px;
+  
+}
+
+h2{
+  font-size: 50px;
+  color: rgb(253, 140, 234)
+}
+
+h3{
+  font-size: 30px;
+}
+body{
+    font-family: 'Caveat', cursive;
+    background-color: lemonchiffon
+    }
+p{
+    font-size: 14px;
+    font-family:'IM Fell DW Pica', serif;
+    color:rgb(0, 17, 255)
+    
+}
+/* <img src="https://vignette.wikia.nocookie.net/fireemblem/images/6/65/Soleil_Heroes.png/revision/latest?cb=20171203043309" alt="Soleil" style="600px"> */
+img { 
+	max-width: 25%;
+	}
+/* font-family: 'Averia Serif Libre', cursive;
+font-family: 'Calligraffitti', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'IM Fell DW Pica', serif;
+font-family: 'Ruthie', cursive;
+font-family: 'Tangerine', cursive; */
+/* <style>
+        .TextWarp {
+            float: right;
+            margin: 10px;
+        }
+    </style> */
